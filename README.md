@@ -59,7 +59,7 @@ Full pipeline: Model + API + Dashboard + Deployment
 ## 📫 Connect With Me
 📧 Email: reddykarthik95116@gmail.com  
 💼 LinkedIn: (https://www.linkedin.com/in/karthik-reddy03)  
-💻 GitHub: https://github.com/Karthik-reddy-2676
+💻 GitHub: https://github.com/Karthik-rdy03
 
 ---
 
